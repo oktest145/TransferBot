@@ -1,19 +1,15 @@
 {
-
-  "name": "botgram",
-
-  "description": "SYS DEF",
-
-  "keywords": ["TERMINAL"],
-
+  "name": "ttyd on Heroku",
+  "description": "ttyd on Heroku",
   "env": {
-
-  },
-
-  "website": "https://github.com/oktest145/",
-
-  "repository": "https://github.com/oktest145/",
-
-
-
- }
+   
+    "TOKEN":{
+     "description": "BOT TOKEN",
+     "value": "",
+     "required": "false"
+    },
+  
+  "website": "",
+  "repository": ""
+  } 
+}
