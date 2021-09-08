@@ -1,3 +1,3 @@
 pip install -r requirements.txt
-python3 
+python3 transferbot.py
 
